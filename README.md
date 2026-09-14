@@ -1,6 +1,6 @@
 <div align="center">
 
-# KASHAN
+# KASHAN HAIDER
 
 `Full-stack Developer` · `AI Systems` · `DevOps`
 
